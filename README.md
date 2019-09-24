@@ -17,3 +17,5 @@ This template is the boilerplate for a single Canvas assignment.
 1. Edit ```docs/_data/assignment.yml``` to reflect the parameters of this assignment. Custom values may be added, they can be referenced in [Liquid][] code as ```site.data.assignments.valueName```.
    - If an **outcome** is set, the text will be displayed above the tabs.
 1. Edit ```docs/_data/tabs.yml``` to change the names (or number) of the tabs and/or the file they refer to.
+
+[liquid]: <https://shopify.github.io/liquid/>
