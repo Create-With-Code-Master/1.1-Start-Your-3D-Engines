@@ -11,5 +11,5 @@ By the end of this lesson, you will be able to:
 * Open a project through Unity Hub
 * Navigate 3D space and the Unity Editor comfortably
 * Add and manipulate objects in the scene to position them where you want
-* Position the camera to provide the view you want in your game
+* Adjust the camera position to provide the point of view you want in your game
 * Adjust the layout of Unity Editor to suit your needs
