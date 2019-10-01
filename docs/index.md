@@ -2,8 +2,14 @@
 layout: tabbed-assignment
 ---
 
-# Overview
+# Lesson Overview
 
-<img src="assets/images/screen-capture.png" align="right" width="50%">
+<img class="overview-image" src="assets/images/screen-capture.png">
 
-Describe what students will be doing and provide, or expand upon, the assignment outcome.
+By the end of this lesson, you will be able to:
+* Clone starter code from GitHub
+* Open a project through Unity Hub
+* Navigate 3D space and the Unity Editor comfortably
+* Add and manipulate objects in the scene to position them where you want
+* Position the camera to provide the view you want in your game
+* Adjust the layout of Unity Editor to suit your needs
