@@ -12,4 +12,4 @@ layout: tabbed-assignment
   - Customize the Unity UI (user interface)
 1. Push your changes to GitHub.
 
-[prototype1]: <https://create-with-code-master.github.io/Unit-1-Prototype/>
+[prototype1]: <https://github.com/Create-With-Code-Master/Unit-1-Prototype>
