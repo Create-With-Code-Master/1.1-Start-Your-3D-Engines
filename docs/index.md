@@ -1,6 +1,6 @@
 ---
 layout: tabbed-assignment
-game: https://create-with-code-master.github.io/Unit-1-Prototype/
+game: https://create-with-code-master.github.io/Unit-1-Prototype/Prototype-1/
 ---
 
 # Lesson Overview
