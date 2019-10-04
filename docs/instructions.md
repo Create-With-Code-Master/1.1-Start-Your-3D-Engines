@@ -13,3 +13,10 @@ layout: tabbed-assignment
 1. Push your changes to GitHub.
 
 [prototype1]: <https://github.com/Create-With-Code-Master/Unit-1-Prototype>
+
+<!-- Don't edit links here, change them in _data/assignment.yml instead, -->
+
+[lesson]: <{{site.data.assignment.lesson}}>
+[slides]: <{{site.data.assignment.slides}}>
+[template]: <{{site.data.assignment.template}}>
+
