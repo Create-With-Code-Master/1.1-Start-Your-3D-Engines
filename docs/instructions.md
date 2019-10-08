@@ -3,9 +3,13 @@ layout: tabbed-assignment
 ---
 
 # Instructions
-1. Fork the [Prototype 1][prototype1] starter code.
-1. Clone your Prototype 1 repository.
-1. Follow the instructions in the [lesson][] to:
+1. Launch GitHub Desktop and confirm that you are on the **scene-setup** branch of the Prototype-1 repository. Also confirm that the branch has been published on GitHub.
+1. Launch Unity Hub, there should be a shortcut on your desktop, or your can search from the start menu.
+1. Click on Projects in the left sidebar. Then click on the Add button.
+1. Navigate to the folder Prototype-1 folder in your GitHub folder and select it.
+1. Click on the project to launch Unity. The first launch of a project will be quite slow.
+1. While Unity is loading, open the [lesson][] in your browser and move the browser to window to your secondary monitor.
+1. Follow the instructions in the [lesson][], starting from step  to:
   - Add a vehicle (and make a commit)
   - Add an obstacle (and make a commit)
   - Position the camera (and make a commit)
