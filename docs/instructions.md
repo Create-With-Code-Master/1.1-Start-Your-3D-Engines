@@ -9,6 +9,7 @@ layout: tabbed-assignment
 1. Navigate to the folder Prototype-1 folder in your GitHub folder and select it.
 1. Click on the project to launch Unity. The first launch of a project will be quite slow.
 1. While Unity is loading, open the [lesson][] in your browser and move the browser to window to your secondary monitor.
+1. Find the section **3. Import assets and open Prototype 1**
 1. Follow the instructions in the [lesson][], starting from step  to:
   - Add a vehicle (and make a commit)
   - Add an obstacle (and make a commit)
