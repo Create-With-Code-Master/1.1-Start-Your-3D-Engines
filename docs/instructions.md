@@ -3,7 +3,7 @@ layout: tabbed-assignment
 ---
 
 # Instructions
-1. Launch GitHub Desktop and confirm that you are on the **scene-setup** branch of the Prototype-1 repository. Also confirm that the branch has been published on GitHub.
+1. Launch GitHub Desktop and confirm that you are on the **step-1** branch of the Prototype-1 repository. Also confirm that the branch has been published on GitHub.
 1. Launch Unity Hub, there should be a shortcut on your desktop, or your can search from the start menu.
 1. Click on Projects in the left sidebar. Then click on the Add button.
 1. Navigate to the folder Prototype-1 folder in your GitHub folder and select it.
