@@ -5,8 +5,7 @@ layout: tabbed-assignment
 # Learning Targets
 
 By the end of this lesson, you will be able to:
-* Fork a repository on GitHub
-* Clone starter code from GitHub using GitHub Desktop
+
 * Add a project to Unity Hub
 * Open a project through Unity Hub
 * Navigate 3D space and the Unity Editor comfortably
