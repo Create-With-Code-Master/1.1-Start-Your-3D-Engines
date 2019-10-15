@@ -19,6 +19,8 @@ layout: tabbed-assignment
    - Add an obstacle (and make a commit)
    - Position the camera (and make a commit)
    - Customize the Unity UI (user interface)
+   
+   In general, whenever you have completed a "hunk" of work &mdash; such as adding a vehicle &mdash; make a commit. Be sure to describe the commit. The description can be brief.
 1. Commit and outstanding changes and push them to GitHub.
 
 [prototype1]: <https://github.com/Create-With-Code-Master/Unit-1-Prototype>
