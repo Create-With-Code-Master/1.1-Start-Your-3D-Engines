@@ -14,3 +14,4 @@ By the end of this lesson, you will be able to:
 * Customize the layout of Unity Editor to suit your needs
 * Commit changes in GitHub Desktop
 * Push commits to GitHub
+* Explain the term **semantic versioning** and give an example from Unity.
