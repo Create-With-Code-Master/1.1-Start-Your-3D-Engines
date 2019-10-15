@@ -3,6 +3,7 @@ layout: tabbed-assignment
 ---
 
 # Instructions
+
 1. Launch GitHub Desktop and confirm that you are on the **step-1** branch of the Prototype-1 repository. Also confirm that the branch has been published on GitHub.
 1. Launch Unity Hub, there should be a shortcut on your desktop, or your can search from the start menu.
 1. Click on Projects in the left sidebar. Then click on the Add button.
@@ -12,11 +13,11 @@ layout: tabbed-assignment
 1. Since we are downloading our starter assets from GitHub you will not need to _do_ anything for the first two sections and most of the third. **But,** do watch the videos. The videos introduce vocabulary and important Unity concepts and techniques. As you watch the videos **make notes**.
 1. Find the section **3. Import assets and open Prototype 1**
 1. Follow the instructions in the [lesson][], starting from **step 4 (Right-click + drag to look around at the start of the road)** to:
-  - Add a vehicle (and make a commit)
-  - Add an obstacle (and make a commit)
-  - Position the camera (and make a commit)
-  - Customize the Unity UI (user interface)
-1. Push your changes to GitHub.
+   - Add a vehicle (and make a commit)
+   - Add an obstacle (and make a commit)
+   - Position the camera (and make a commit)
+   - Customize the Unity UI (user interface)
+1. Push your changes and push them to GitHub.
 
 [prototype1]: <https://github.com/Create-With-Code-Master/Unit-1-Prototype>
 
