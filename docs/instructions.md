@@ -17,7 +17,7 @@ layout: tabbed-assignment
    - Add an obstacle (and make a commit)
    - Position the camera (and make a commit)
    - Customize the Unity UI (user interface)
-1. Push your changes and push them to GitHub.
+1. Commit and outstanding changes and push them to GitHub.
 
 [prototype1]: <https://github.com/Create-With-Code-Master/Unit-1-Prototype>
 
