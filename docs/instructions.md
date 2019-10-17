@@ -16,7 +16,9 @@ layout: tabbed-assignment
 1. While Unity is loading, open the [lesson][] in your browser and move the browser to window to your secondary monitor.
 1. Since we are downloading our starter assets from GitHub you will not need to _do_ anything for the first two sections and most of the third. **But,** do watch the videos. The videos introduce vocabulary and important Unity concepts and techniques. As you watch the videos **make notes**.
 1. Once Unity has launched check that the Prototype-1 _scene_ has loaded. You should see a road surrounded by mountains. If you don't:
-   - 
+   - Find the Scenes folder in the Project window (or panel or pane).
+   - There you should find the **Prototype-1** scene.
+   - Open it by double-clicking on it.
 1. Find the section **3. Import assets and open Prototype 1**
 1. Follow the instructions in the [lesson][], starting from **step 4 (Right-click + drag to look around at the start of the road)** to:
    - Add a vehicle (and make a commit)
