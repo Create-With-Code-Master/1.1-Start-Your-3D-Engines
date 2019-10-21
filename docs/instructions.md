@@ -2,6 +2,8 @@
 layout: tabbed-assignment
 ---
 
+{% include time-estimate.html %}
+
 # Instructions
 
 1. Launch **GitHub Desktop** and confirm that you are on the **step-1** branch of the **Prototype-1** repository. Also confirm that the branch has been published on GitHub. You can tell if a branch has been published by:
