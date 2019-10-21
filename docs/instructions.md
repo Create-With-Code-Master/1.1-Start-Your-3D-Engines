@@ -27,7 +27,8 @@ layout: tabbed-assignment
    - Customize the Unity UI (user interface)
    
    In general, whenever you have completed a "hunk" of work &mdash; such as adding a vehicle &mdash; make a commit. Be sure to describe the commit. The description can be brief.
-1. Commit and outstanding changes and push them to GitHub.
+1. In **GitHub Desktop**, commit any outstanding changes and push them to GitHub.
+1. Go to the submission tab and submit your work.
 
 [prototype1]: <https://github.com/Create-With-Code-Master/Unit-1-Prototype>
 
