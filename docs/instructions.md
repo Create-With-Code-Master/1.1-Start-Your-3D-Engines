@@ -2,9 +2,11 @@
 layout: tabbed-assignment
 ---
 
+# Instructions
+
 {% include time-estimate.html %}
 
-# Instructions
+This assignment starts in the middle of the Start Your Engines lesson &mdash; follow the instructions below till get to the end. You will pick up the lesson after third video on step 4 (Right-click + drag to look around at the start of the road).
 
 1. Launch **GitHub Desktop** and confirm that you are on the **step-1** branch of the **Prototype-1** repository. Also confirm that the branch has been published on GitHub. You can tell if a branch has been published by:
    - Looking for a "friendly suggestion" to **Create Pull Request** in GitHub Desktop (there will be a message there saying "The current branch (step-1) is already published to GitHub." if the branch has been published).
